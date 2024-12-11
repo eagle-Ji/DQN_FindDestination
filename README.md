@@ -1,0 +1,1 @@
+In this repo I have added a colab notebook file that obtains the environment from the repository and trains the car to drive. The driving is controlled with discrete actions and DQN algorithm has ben used. The weights of the model are attached. 
